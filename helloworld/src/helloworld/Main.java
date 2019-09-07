@@ -13,11 +13,13 @@ public class Main {
 		
 		int a, b, c, d, e;
 		
-		a = Integer.parseInt(args[0]);
-		b = Integer.parseInt(args[1]);
-		c = Integer.parseInt(args[2]);
-		d = Integer.parseInt(args[3]);
-		e = Integer.parseInt(args[4]);
+		//a = Integer.parseInt(args[0]);
+		//b = Integer.parseInt(args[1]);
+		//c = Integer.parseInt(args[2]);
+		//d = Integer.parseInt(args[3]);
+		//e = Integer.parseInt(args[4]);
+		
+		a = 10; b = 10; c = 12;
 		
 		
 		
@@ -28,7 +30,7 @@ public class Main {
 		System.out.println(a*b);
 		System.out.println(a/b);
 		
-		System.out.println(a*b*c*d*e/5);
+		//System.out.println(a*b*c*d*e/5);
 		
 		
 		waiting(40000);
