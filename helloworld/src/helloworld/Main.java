@@ -11,7 +11,7 @@ public class Main {
 		System.out.println(args[2]);
 		
 		
-		int a, b, c,d ,e;
+		int a, b, c, d, e;
 		
 		a = Integer.parseInt(args[0]);
 		b = Integer.parseInt(args[1]);
