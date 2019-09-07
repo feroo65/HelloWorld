@@ -31,7 +31,17 @@ public class Main {
 		System.out.println(a*b*c*d*e/5);
 		
 		
+		waiting(40000);
 		
+		System.out.println("vége");
 	}
+	public static void waiting(long millisecond){
+        long max = millisecond;
+        for(long i = 0;  i < max; i++){
+            for(long j = 0;  j < max; j++){
+                 
+            }
+        }
+    }
 
 }
