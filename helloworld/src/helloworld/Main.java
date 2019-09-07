@@ -33,7 +33,7 @@ public class Main {
 		System.out.println(a*b*c*d*e/5);
 		
 		
-		waiting(40000);
+		waiting(60000);
 		
 		System.out.println("vége");
 	}
