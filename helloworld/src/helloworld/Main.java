@@ -19,7 +19,7 @@ public class Main {
 		//d = Integer.parseInt(args[3]);
 		//e = Integer.parseInt(args[4]);
 		
-		a = 10; b = 10; c = 12;
+		a = 10; b = 10; c = 12; d=15; e=15;
 		
 		
 		
@@ -30,7 +30,7 @@ public class Main {
 		System.out.println(a*b);
 		System.out.println(a/b);
 		
-		//System.out.println(a*b*c*d*e/5);
+		System.out.println(a*b*c*d*e/5);
 		
 		
 		waiting(40000);
